@@ -51,5 +51,3 @@ To reduce manual effort in IT ticket classification and improve the consistency 
 ### 3. Email Notification Logs
 ![Email Notification Logs](02-email-notification-logs.png)
 
-## 👩‍💻 Author
-**Dharmaram Saritha**
