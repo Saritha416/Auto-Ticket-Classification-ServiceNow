@@ -40,5 +40,16 @@ To reduce manual effort in IT ticket classification and improve the consistency 
 
 [Watch the ServiceNow Project Demo](serviceNow-project-demo.mp4)
 
+## 📸 Project Screenshots
+
+### 1. Incident Classification Results
+![Incident Classification Results](01-incident-classification-results.png)
+
+### 2. Flow Execution
+![Flow Execution](03-flow-execution.png)
+
+### 3. Email Notification Logs
+![Email Notification Logs](02-email-notification-logs.png)
+
 ## 👩‍💻 Author
 **Dharmaram Saritha**
