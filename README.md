@@ -38,7 +38,7 @@ To reduce manual effort in IT ticket classification and improve the consistency 
 
 ## 🎥 Project Demo
 
-[Watch the ServiceNow Project Demo](serviceNow-project-demo.mp4)
+[▶️ Watch the ServiceNow Project Demo](https://drive.google.com/file/d/1PQ-4oBruNFO5yvcp5LG-qRMBryiYAwbn/view?usp=sharing)
 
 ## 📸 Project Screenshots
 
