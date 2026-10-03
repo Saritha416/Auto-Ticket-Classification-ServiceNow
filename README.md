@@ -36,5 +36,9 @@ The repository contains the exported **ServiceNow Update Set XML** used for depl
 ## 🎯 Objective
 To reduce manual effort in IT ticket classification and improve the consistency and speed of ticket routing.
 
+## 🎥 Project Demo
+
+[Watch the ServiceNow Project Demo](serviceNow-project-demo.mp4)
+
 ## 👩‍💻 Author
 **Dharmaram Saritha**
