@@ -37,7 +37,6 @@ The repository contains the exported **ServiceNow Update Set XML** used for depl
 To reduce manual effort in IT ticket classification and improve the consistency and speed of ticket routing.
 
 ## 🎥 Project Demo
-
 [▶️ Watch the ServiceNow Project Demo](https://drive.google.com/file/d/1PQ-4oBruNFO5yvcp5LG-qRMBryiYAwbn/view?usp=sharing)
 
 ## 📸 Project Screenshots
